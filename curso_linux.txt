@@ -14,7 +14,9 @@ Tutorial de Linux
 
     ls -a - lista os aruivos e diretórios ocultos
 
-    ls -l - lista de forma detalhada
+    ls -l | ls -al - lista de forma detalhada
+
+    ls -R - vai listar todos os arquivos nos suddiretórios
 
     echo - imprime um texto no Terminal
 
@@ -54,7 +56,20 @@ Tutorial de Linux
 
     Nota: shell é uma interface que fornece acesso ao sistema operacional (GUI - interface gráfica de usuário / CLI - interface de linha de comando)
 
+    cp = copia arquivos Ex.: cp imagem.jpg Documentos/imagens - nesse exemplo o arquivo será copiado para a pasta Documentos/imagens
+
+    mv = mover um arquivo de um diretório para outro Ex.:  mv file.txt /home/username/Documents
+
+    touch = criar arquivo 
+
+    locate = comando para localizar arquivos Ex.: locate -i senhas - vai procurar por arquivos que tenham esse nome independentemente da letra ser maiúscula ou minúscula
+
+    locate -i cpf*gui
+
+    find - usado para localizar um arquivo dentro de um diretório específico
+
     
+
 
     
 
