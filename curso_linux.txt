@@ -1,0 +1,61 @@
+Tutorial de Linux
+
+  Lista de Comandos
+
+    ctrl + Alt + Del = abrir Terminal
+
+    ~ = diretório home 
+
+    pwd = imprime no Terminal o caminho completo do diretório onde o comando for usado
+
+    Nota: arquivos ocultos - são arquivos de configuração ou arquivos de cache
+
+    ls - lista os arquivos e diretórios filhos do diretório
+
+    ls -a - lista os aruivos e diretórios ocultos
+
+    ls -l - lista de forma detalhada
+
+    echo - imprime um texto no Terminal
+
+    echo Seja bem vindo! > Apostilas/tutorialTerminal.txt = criar um arquivo tutorialTerminal.txt dentro do diretório Apostilas
+
+    echo Lista de Comandos >> Apostilas/tutorialTerminal.txt = reescrever o arquivo tutorialTerminal.txt inserindo mais uma linha 
+
+    cat <nome do arquivo> - ler arquivo do próprio terminal
+
+    clear - limpar a tela do terminal
+
+    Ctrl + r - pesquisa por comandos anteriormente digitados
+
+    Ctrl + c - abandonar um comando, abortar um comando
+
+    mkdir - criar um diretório
+
+    cd - navegar por diretórios
+
+    cd .. - volta um diretório
+
+    cd <nome do diretório> - avança um diretório
+
+    cd pr <pressionar tab> ele autocompleta a escrita, caso haja algum diretório que comece com pr
+
+    cd - volta direto ao diretório home (~)
+
+    Nota: o diretório home (/home/guilherme) não é o raiz de tudo.
+
+    cd / - diretório raiz do sistema
+
+    rmdir - remover diretório //remove apenas diretórios vazios
+
+    rm - remover arquivo
+
+    rm -r = remover a pasta e todos os arquivos que estiverem dentro dela
+
+    Nota: shell é uma interface que fornece acesso ao sistema operacional (GUI - interface gráfica de usuário / CLI - interface de linha de comando)
+
+    
+
+    
+
+    
